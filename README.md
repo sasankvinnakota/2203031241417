@@ -1,10 +1,10 @@
-# 🔗 URL Shortener
+#  URL Shortener
 
 A simple URL shortener built with Node.js, Express, and MongoDB. Users can convert long URLs into short, customizable codes and track redirections.
 
 ---
 
-## 🚀 Features
+##  Features
 
 - Shorten long URLs with custom shortcode support
 - Set expiration time (validity in minutes)
@@ -14,7 +14,7 @@ A simple URL shortener built with Node.js, Express, and MongoDB. Users can conve
 
 ---
 
-## 🧰 Technologies Used
+##  Technologies Used
 
 - Node.js
 - Express.js
